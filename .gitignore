@@ -15,6 +15,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 .idea
+Inteliji idea project.iml
 
 ### NetBeans ###
 /nbproject/private/
