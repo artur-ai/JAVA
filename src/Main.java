@@ -4,8 +4,8 @@ public class Main {
         System.out.println(")");
         System.out.println("Hello World ");*/
 
-
-
+        int num;
+        num = 10;
     }
 
 
